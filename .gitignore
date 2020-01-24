@@ -184,7 +184,4 @@ dkms.conf
 .idea/TheCProgramingLanguage.iml
 .idea/misc.xml
 .idea/modules.xml
-CMakeLists.txt
-Ch1/
-cmake-build-debug/
 .idea/vcs.xml
