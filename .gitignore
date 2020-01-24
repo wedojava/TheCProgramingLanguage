@@ -187,3 +187,4 @@ dkms.conf
 CMakeLists.txt
 Ch1/
 cmake-build-debug/
+.idea/vcs.xml
