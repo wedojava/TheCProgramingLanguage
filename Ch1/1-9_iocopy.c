@@ -1,10 +1,12 @@
 #include <stdio.h>
+
 #define NONBLANK 'a'
+
 main() {
-    int c,lastc;
+    int c, lastc;
     lastc = NONBLANK;
 
-    while ((c = getchar()) != EOF){
+    while ((c = getchar()) != EOF) {
 //  Method 1
 //        if (c != ' ')
 //            putchar(c);
